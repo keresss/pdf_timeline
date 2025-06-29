@@ -1,0 +1,1423 @@
+[
+  {
+    "chunk_id": "de1f9fe4",
+    "page": 112,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.3 Russia’s Use of Cluster Munitions",
+    "section_title": "In all, 14 people were injured in the first strike.",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-12",
+          "label": "Second Strike Occurs",
+          "description": "A second strike hit a group of individuals, resulting in one death and multiple injuries.",
+          "actors": [
+            "unknown",
+            "Suliko Zubashvili",
+            "Gaioz Kebadze",
+            "Zakro Buzaladze"
+          ],
+          "event_type": "casualty_event",
+          "source": {
+            "chunk_id": "de1f9fe4",
+            "page": 112
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Suliko Zubashvili",
+          "excerpt": "I heard a jet. The bomb fell and exploded. I was wounded in the leg, chest, back, fingers.",
+          "date": "2008-08-12",
+          "location": "Variani",
+          "source": {
+            "chunk_id": "de1f9fe4",
+            "page": 112
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "8f84e510",
+    "page": 113,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.3 Russia’s Use of Cluster Munitions",
+    "section_title": "Up in Flames 106",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Lia Kereselidze",
+          "excerpt": "I showed Human Rights Watch a canister with the inscription RBK-500/AO-2.5 RTM.",
+          "source": {
+            "chunk_id": "8f84e510",
+            "page": 113
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "cdb56b6a",
+    "page": 113,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTM in cyrillic. Kereselidze had seen two more canisters nearby, but they had been",
+    "section_title": null,
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Kereselidze",
+          "excerpt": "I found four unexploded AO-2.5 RTM submunitions in my garden.",
+          "source": {
+            "chunk_id": "cdb56b6a",
+            "page": 113
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "c4b0d394",
+    "page": 113,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": null,
+    "model_output": {
+      "events": [],
+      "testimonies": [],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "b60d4eaa",
+    "page": 113,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "Variani and the fields just outside it.293",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-08",
+          "label": "First Cluster Munition Attack in Variani",
+          "description": "Georgian ground troops had just entered Tskhinvali when the first cluster munition attack occurred in Variani.",
+          "actors": [
+            "Georgia",
+            "Russian forces"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "date": "2008-08-12",
+          "label": "Second Cluster Munition Attack",
+          "description": "At the time of the second attack, Georgian troops had retreated from Tskhinvali and reportedly left Gori city.",
+          "actors": [
+            "Georgia",
+            "Russian forces"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Tamar Eremov",
+          "excerpt": "[Contamination] has interfered with my harvest. I couldn’t collect because I couldn’t get into my fields because they were occupied [by troops].",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Tengo Kebadze",
+          "excerpt": "Deminers cleared 27 submunitions from my cherry orchard.",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Lia Kereselidze",
+          "excerpt": "Deminers had cleared four submunitions from my garden.",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Teimuraz Khizanishvili",
+          "excerpt": "Deminers had cleared two submunitions from my home.",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Nukri Stepanishvili",
+          "excerpt": "Two submunitions had been removed from my home.",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Anzor Zubashvili",
+          "excerpt": "I reported two explosions and six duds in my yard.",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Galaktion Zubasvhili",
+          "excerpt": "I reported four explosions and three duds in my and my neighbor’s yard.",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Archil Khizanishvili",
+          "excerpt": "There were troops in town at other times, but not at the time of this incident.",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Use of Cluster Munitions",
+          "description": "Russian forces used cluster munitions in attacks on Variani, violating humanitarian law.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "b60d4eaa",
+            "page": 113
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "a2899325",
+    "page": 113,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "2008.",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-12",
+          "label": "Cluster Munition Strike in Ruisi",
+          "description": "Russian forces struck the village of Ruisi using Uragan rockets carrying 9N210 submunitions, resulting in civilian casualties.",
+          "actors": [
+            "Russian forces",
+            "civilians"
+          ],
+          "event_type": "casualty_event",
+          "source": {
+            "chunk_id": "a2899325",
+            "page": 113
+          }
+        },
+        {
+          "date": "2008-08-11",
+          "label": "Cluster Munition Strike in Dzlevijvari",
+          "description": "The village of Dzlevijvari was struck by cluster munitions, leading to significant physical evidence of the attack.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "a2899325",
+            "page": 113
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Iza Goginashvili",
+          "excerpt": "When we found him he had numerous wounds. His head was broken. His brains were out. His legs and hand were sliced off.",
+          "date": "2008-08-12",
+          "location": "Ruisi",
+          "source": {
+            "chunk_id": "a2899325",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Ushangi Beruashvili",
+          "excerpt": "When the bombing started I decided to return to Ruisi to seek cover in a house about 300 meters from the place where Goginashvili died.",
+          "date": "2008-08-12",
+          "location": "Ruisi",
+          "source": {
+            "chunk_id": "a2899325",
+            "page": 113
+          }
+        },
+        {
+          "witness": "Kvicha Saatashvili",
+          "excerpt": "I found a canister for 9N210 about 100 meters from the place where Goginashvili died.",
+          "date": "2008-08-12",
+          "location": "Ruisi",
+          "source": {
+            "chunk_id": "a2899325",
+            "page": 113
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Use of Cluster Munitions",
+          "description": "The use of Uragan rockets carrying 9N210 submunitions in populated areas constitutes a violation of humanitarian law.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "a2899325",
+            "page": 113
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "9e8b5b91",
+    "page": 115,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "Up in Flames 108",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-22",
+          "label": "Cluster Munition Strike in Ruisi",
+          "description": "A cluster munition strike hit the village of Ruisi, resulting in casualties and injuries among civilians.",
+          "actors": [
+            "unknown",
+            "Georgian military"
+          ],
+          "event_type": "casualty_event",
+          "source": {
+            "chunk_id": "9e8b5b91",
+            "page": 115
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Ushangi Beruashvili",
+          "excerpt": "I saw the rocket was shot and fell not far away from where I was. Something hit me in the stomach.",
+          "date": "2008-10-15",
+          "location": "Ruisi",
+          "source": {
+            "chunk_id": "9e8b5b91",
+            "page": 115
+          }
+        },
+        {
+          "witness": "Marine Vardzelashvili",
+          "excerpt": "Planes were flying around and dropping bombs... We could feel the blast waves from the explosions.",
+          "date": "2008-08-22",
+          "location": "Ruisi",
+          "source": {
+            "chunk_id": "9e8b5b91",
+            "page": 115
+          }
+        },
+        {
+          "witness": "Tinatin Beruashvili",
+          "excerpt": "The injured women and neighbors showed Human Rights Watch an Uragan rocket and 9N210 fragments.",
+          "date": null,
+          "location": "Ruisi",
+          "source": {
+            "chunk_id": "9e8b5b91",
+            "page": 115
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Use of Cluster Munitions",
+          "description": "The use of cluster munitions in civilian areas, resulting in civilian casualties and injuries.",
+          "actors": [
+            "Georgian military"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "9e8b5b91",
+            "page": 115
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "a925fbdb",
+    "page": 115,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "October 15, 2008.",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-12",
+          "label": "Attack in Ruisi Village",
+          "description": "A shelling incident occurred in the village of Ruisi, resulting in the death of Amiran Vardzelashvili.",
+          "actors": [
+            "Georgian troops"
+          ],
+          "event_type": "casualty_event",
+          "source": {
+            "chunk_id": "a925fbdb",
+            "page": 115
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "unknown",
+          "excerpt": "Most villagers said that Georgian troops had moved through the village the previous day, but had left before the attack.",
+          "date": "2008-10-15",
+          "location": "Ruisi",
+          "source": {
+            "chunk_id": "a925fbdb",
+            "page": 115
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "14d300e5",
+    "page": 117,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "Gori city—Iskander SS-26 missile with submunitions",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-12",
+          "label": "Cluster Munitions Attack in Gori",
+          "description": "A cluster munitions attack occurred in Gori city, killing six civilians and injuring many others who were gathered for food distribution.",
+          "actors": [
+            "unknown"
+          ],
+          "event_type": "casualty_event",
+          "source": {
+            "chunk_id": "14d300e5",
+            "page": 117
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Keti Javakhishvili",
+          "excerpt": "There was a big explosion above us and the next moment there were many smaller explosions everywhere.",
+          "source": {
+            "chunk_id": "14d300e5",
+            "page": 117
+          }
+        },
+        {
+          "witness": "Nodar Mchedlishvili",
+          "excerpt": "In a couple of seconds from everywhere I heard what sounded like massive gunfire. We fell on the ground and some people never got up.",
+          "source": {
+            "chunk_id": "14d300e5",
+            "page": 117
+          }
+        },
+        {
+          "witness": "Giorgi Malkhaziani",
+          "excerpt": "My right leg was shredded as a result of the attack.",
+          "source": {
+            "chunk_id": "14d300e5",
+            "page": 117
+          }
+        }
+      ],
+      "violations": [
+        {
+          "description": "Use of cluster munitions in populated areas, resulting in civilian casualties.",
+          "attributed_party": "unknown",
+          "source": {
+            "chunk_id": "14d300e5",
+            "page": 117
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "8921bb74",
+    "page": 117,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "Tbilisi, August 13, 2008.",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-11",
+          "label": "Georgian Troops Leave Gori",
+          "description": "All Georgian troops had left the city of Gori by the evening, according to witnesses.",
+          "actors": [
+            "Georgia",
+            "Georgian military"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "8921bb74",
+            "page": 117
+          }
+        },
+        {
+          "date": "2008-08-12",
+          "label": "Cluster Munitions Strike on Gori",
+          "description": "A cluster munitions strike hit Gori’s main square, resulting in casualties including cameraman Stan Storimans.",
+          "actors": [
+            "Russian forces",
+            "Stan Storimans"
+          ],
+          "event_type": "casualty_event",
+          "source": {
+            "chunk_id": "8921bb74",
+            "page": 117
+          }
+        },
+        {
+          "date": "2008-08-29",
+          "label": "Dutch Investigative Commission Dispatched",
+          "description": "The Dutch Ministry of Foreign Affairs sent a commission to Gori to investigate the death of cameraman Stan Storimans.",
+          "actors": [
+            "Dutch Ministry of Foreign Affairs",
+            "investigative commission"
+          ],
+          "event_type": "diplomacy",
+          "source": {
+            "chunk_id": "8921bb74",
+            "page": 117
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "unknown",
+          "excerpt": "All witnesses said that there were no military forces on the square when it was attacked.",
+          "source": {
+            "chunk_id": "8921bb74",
+            "page": 117
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Use of Cluster Munitions",
+          "description": "Russian forces used cluster munitions in a strike on Gori’s main square, violating humanitarian law.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "8921bb74",
+            "page": 117
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "2170d487",
+    "page": 118,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "SS-26 missile carrying cluster munitions.316",
+    "model_output": {
+      "events": [],
+      "testimonies": [],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "92ac7b37",
+    "page": 119,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "2.5 RTMs and the separation rings of two more. We heard reports of an additional 50",
+    "section_title": "Up in Flames 112",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-16",
+          "label": "Russian Ministry of Defense Denies Use of Iskander",
+          "description": "The Russian Ministry of Defense stated that Russian forces did not use the Iskander missile system in South Ossetia.",
+          "actors": [
+            "Russian Ministry of Defense"
+          ],
+          "event_type": "blame_claim",
+          "source": {
+            "chunk_id": "92ac7b37",
+            "page": 119
+          }
+        }
+      ],
+      "testimonies": [],
+      "violations": [
+        {
+          "description": "Use of cluster munitions by Russian forces in Georgia.",
+          "party": "Russian forces",
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "92ac7b37",
+            "page": 119
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "b13f9395",
+    "page": 120,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.4 Tank Attacks on Civilian Homes",
+    "section_title": null,
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-09",
+          "label": "Russian Tanks Fire on Tamarasheni",
+          "description": "Russian tanks fired on homes in Tamarasheni, indicating indiscriminate attacks on civilian structures.",
+          "actors": [
+            "Russia",
+            "Tamarasheni villagers"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "b13f9395",
+            "page": 120
+          }
+        },
+        {
+          "date": "2008-08-09",
+          "label": "Russian Soldiers Enter Tamarasheni",
+          "description": "Russian soldiers entered a house in Tamarasheni where civilians were hiding, checking for armed men.",
+          "actors": [
+            "Russia",
+            "Manana Gogidze"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "b13f9395",
+            "page": 120
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Manana Gogidze",
+          "excerpt": "Three tanks would stand one after another, point their barrels in different directions and start shooting at houses.",
+          "date": "2008-08-09",
+          "location": "Tamarasheni",
+          "source": {
+            "chunk_id": "b13f9395",
+            "page": 120
+          }
+        },
+        {
+          "witness": "Luiza Nasuashvili",
+          "excerpt": "I heard a big explosion and a big hole appeared in my house. I think it was tank fire.",
+          "date": "2008-08-09",
+          "location": "Tamarasheni",
+          "source": {
+            "chunk_id": "b13f9395",
+            "page": 120
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Indiscriminate Attacks on Civilians",
+          "description": "Russian forces conducted attacks on civilian homes without distinguishing between military and civilian targets.",
+          "actors": [
+            "Russia"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "b13f9395",
+            "page": 120
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "de3516a6",
+    "page": 121,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": null,
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-08",
+          "label": "Aerial Attack on Civilian Convoy",
+          "description": "Russian military aircraft attacked civilian convoys fleeing the conflict zone near Eredvi, resulting in casualties among non-combatants.",
+          "actors": [
+            "Russian forces",
+            "civilians"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "de3516a6",
+            "page": 121
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Temo Kasradze",
+          "excerpt": "There was an explosion. Perhaps four or five cars were hit... I saw that people were injured and killed. There was blood.",
+          "date": "2008-08-08",
+          "location": "Eredvi",
+          "source": {
+            "chunk_id": "de3516a6",
+            "page": 121
+          }
+        },
+        {
+          "witness": "Jemal Maisuradze",
+          "excerpt": "It was an aerial attack. There were five [Russian] planes... There were no military troops around. All the vehicles were civilian.",
+          "date": "2008-08-08",
+          "location": "Eredvi",
+          "source": {
+            "chunk_id": "de3516a6",
+            "page": 121
+          }
+        }
+      ],
+      "violations": [
+        {
+          "description": "Intentional firing on civilian vehicles that posed no apparent military threat.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "de3516a6",
+            "page": 121
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "622cf9b4",
+    "page": 121,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": "Marika Kakhniashvili, from Kekhvi.326",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-17",
+          "label": "Explosions Near Eredvi",
+          "description": "Tengiz Magaldadze witnessed three explosions while driving with 20 others, concluding they were likely caused by Russian forces.",
+          "actors": [
+            "Tengiz Magaldadze",
+            "Russian forces",
+            "Georgian forces"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "622cf9b4",
+            "page": 121
+          }
+        },
+        {
+          "date": "2008-08-11",
+          "label": "Attack on Civilians in Pkhvenisi",
+          "description": "Nunu Chlaidze and others fled Pkhvenisi after Russian forces attacked military targets, leading to collateral damage to civilian homes.",
+          "actors": [
+            "Nunu Chlaidze",
+            "Amiran Razmadze",
+            "Durmishkhan Bedianashvili",
+            "Russian forces"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "622cf9b4",
+            "page": 121
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Tengiz Magaldadze",
+          "excerpt": "I saw three explosions about 20 to 25 meters in front of the vehicle.",
+          "date": "2008-08-17",
+          "location": "Eredvi",
+          "source": {
+            "chunk_id": "622cf9b4",
+            "page": 121
+          }
+        },
+        {
+          "witness": "Durmishkhan Bedianashvili",
+          "excerpt": "Our car came under fire at a Russian military roadblock.",
+          "source": {
+            "chunk_id": "622cf9b4",
+            "page": 121
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Indiscriminate Attacks on Civilians",
+          "description": "The attacks on civilian convoys near Eredvi violated international humanitarian law, potentially constituting a war crime.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "622cf9b4",
+            "page": 121
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "8193f0d4",
+    "page": 122,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": "Human Rights Watch,",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Tengiz Magaldadze",
+          "excerpt": "When we entered Variani I told Amiran to be careful because there were tanks in front. Then they started shooting at us. There was massive gunfire.",
+          "date": "2008-08-15",
+          "location": "Tbilisi",
+          "source": {
+            "chunk_id": "8193f0d4",
+            "page": 122
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "af0fe449",
+    "page": 123,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": "Up in Flames 116",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Amiran",
+          "excerpt": "I was hiding behind the seat when I was wounded and ran into the tank.",
+          "source": {
+            "chunk_id": "af0fe449",
+            "page": 123
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "a68f5b71",
+    "page": 123,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": "They thought that I was dead. Then I ran away.328",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Chlaidze",
+          "excerpt": "I felt unsafe at the hospital and ran away. I had no information about my husband’s fate.",
+          "source": {
+            "chunk_id": "a68f5b71",
+            "page": 123
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "e53dd2ce",
+    "page": 123,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": "Attack on taxi in Tedotsminda, August 12",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-12",
+          "label": "Attack on Taxi by Russian Forces",
+          "description": "Two women were killed when Russian forces fired on their taxi while traveling from Gori to Shindisi.",
+          "actors": [
+            "Russian forces",
+            "Dodo Garsevanishvili",
+            "Nino Arabashvili",
+            "Mamuka Berkatsishvili"
+          ],
+          "event_type": "casualty_event",
+          "source": {
+            "chunk_id": "e53dd2ce",
+            "page": 123
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Mamuka Berkatsishvili",
+          "excerpt": "Russians fired without any kind of warning. The car was almost completely destroyed.",
+          "date": "2008-08-12",
+          "source": {
+            "chunk_id": "e53dd2ce",
+            "page": 123
+          }
+        },
+        {
+          "witness": "Vakhtang Gagnidze",
+          "excerpt": "We saw an Opel taxi pass by... The tank apparently fired on the car, and the car went off the road, exploded and caught fire.",
+          "date": null,
+          "source": {
+            "chunk_id": "e53dd2ce",
+            "page": 123
+          }
+        },
+        {
+          "witness": "Nino Garsevanishvili",
+          "excerpt": "Russian troops denied an ambulance access to the area to collect the two women’s remains.",
+          "date": null,
+          "source": {
+            "chunk_id": "e53dd2ce",
+            "page": 123
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Attack on Civilians",
+          "description": "Russian forces fired on a civilian taxi, resulting in the deaths of two women.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "e53dd2ce",
+            "page": 123
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "e5a555a9",
+    "page": 124,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": "Attack on civilian car in Akhaldaba, August 12",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-12",
+          "label": "Russian Aircraft Attack Television Tower",
+          "description": "Russian aircraft began attacking the television tower near Akhaldaba, targeting the Karaleti and Shindisi areas.",
+          "actors": [
+            "Russia",
+            "Merab Khekhelashvili",
+            "Moris Papuashvili",
+            "Vakhtang Shavdatuashvili"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "e5a555a9",
+            "page": 124
+          }
+        },
+        {
+          "date": "2008-08-12",
+          "label": "Tank Fire on Civilians",
+          "description": "As Khekhelashvili and Papuashvili were being driven back to the village, they encountered tanks that opened fire on their vehicle.",
+          "actors": [
+            "unknown soldiers",
+            "Merab Khekhelashvili",
+            "Moris Papuashvili"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "e5a555a9",
+            "page": 124
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Merab Khekhelashvili",
+          "excerpt": "I felt a bullet skim the top of my head. Someone shouted, 'Get down!' and we all bent over.",
+          "date": "2008-08-12",
+          "location": "near Akhaldaba",
+          "source": {
+            "chunk_id": "e5a555a9",
+            "page": 124
+          }
+        }
+      ],
+      "violations": [
+        {
+          "description": "Civilians were fired upon by soldiers on tanks while trying to escape.",
+          "attributed_party": "unknown soldiers",
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "e5a555a9",
+            "page": 124
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "ef064e2b",
+    "page": 125,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.5 Attacks by Russian Forces on Civilians Fleeing the Conflict Zone",
+    "section_title": "Up in Flames 118",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Merab Khekhelashvili",
+          "excerpt": "When they brought the body back we saw that there was a bullet wound to his forehead that had not been there when we left him—apparently a control shot.",
+          "date": "2008-09-13",
+          "location": "Gori civilian hospital",
+          "source": {
+            "chunk_id": "ef064e2b",
+            "page": 125
+          }
+        }
+      ],
+      "violations": [
+        {
+          "date": "2008-09-13",
+          "label": "Control Shot on Deceased",
+          "description": "A bullet wound was found on the forehead of a deceased individual, indicating a potential execution after death.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "ef064e2b",
+            "page": 125
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "fdda434f",
+    "page": 126,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.6 Pillaging, Destruction, Violence, and Threats against Civilians",
+    "section_title": null,
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-11",
+          "label": "Russian Forces Assault Civilians",
+          "description": "Russian soldiers entered the home of Ilia Chulukidze, beat him, and searched for weapons.",
+          "actors": [
+            "Russian forces",
+            "Ilia Chulukidze"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "fdda434f",
+            "page": 126
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Ilia Chulukidze",
+          "excerpt": "They broke the door and one put a weapon in my face; others ran upstairs looking for something. They started beating me.",
+          "date": "2008-08-11",
+          "location": "Kvemo Achabeti",
+          "source": {
+            "chunk_id": "fdda434f",
+            "page": 126
+          }
+        }
+      ],
+      "violations": [
+        {
+          "label": "Pillaging and Violence Against Civilians",
+          "description": "Russian forces, together with Ossetian militias, engaged in pillaging and violence against civilians, violating international law.",
+          "actors": [
+            "Russian forces",
+            "Ossetian militias"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "fdda434f",
+            "page": 126
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "8b991354",
+    "page": 127,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.6 Pillaging, Destruction, Violence, and Threats against Civilians",
+    "section_title": "Up in Flames 120",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Tamaz Sukhitashvili",
+          "excerpt": "Men in camouflage—presumably Ossetian militia fighters—arrived on Russian tanks in my village.",
+          "source": {
+            "chunk_id": "8b991354",
+            "page": 127
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "aa68e4fb",
+    "page": 127,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.6 Pillaging, Destruction, Violence, and Threats against Civilians",
+    "section_title": "Karaleti (in Gori district), and torched his house:",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-15",
+          "label": "Looting and Arson by Ossetians and Russian Forces",
+          "description": "Armed Ossetians and Russian forces looted and set fire to the homes of Marine and Teimuraz Tetunashvili.",
+          "actors": [
+            "Ossetians",
+            "Russian forces",
+            "Marine Tetunashvili",
+            "Teimuraz Tetunashvili"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "aa68e4fb",
+            "page": 127
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Teimuraz Tetunashvili",
+          "excerpt": "They jumped off and started shooting at the house. They said, 'Give us your cow and money.'",
+          "date": "2008-08-24",
+          "location": "Tirdznisi",
+          "source": {
+            "chunk_id": "aa68e4fb",
+            "page": 127
+          }
+        },
+        {
+          "witness": "Marine Tetunashvili",
+          "excerpt": "I was just begging them, 'Don’t kill me, take whatever you want, but don’t kill me!'",
+          "source": {
+            "chunk_id": "aa68e4fb",
+            "page": 127
+          }
+        }
+      ],
+      "violations": [
+        {
+          "description": "Looting and burning of civilian homes.",
+          "perpetrators": [
+            "Ossetians",
+            "Russian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "aa68e4fb",
+            "page": 127
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "0dcec3e1",
+    "page": 128,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.6 Pillaging, Destruction, Violence, and Threats against Civilians",
+    "section_title": "August 15, 2008. © 2008 Human Rights Watch",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-09",
+          "label": "Looting in Koshka",
+          "description": "Looters, both Russian and Ossetian, entered Koshka after the village had been shelled, stealing from houses and setting them on fire.",
+          "actors": [
+            "Russian looters",
+            "Ossetian looters"
+          ],
+          "event_type": "infrastructure",
+          "source": {
+            "chunk_id": "0dcec3e1",
+            "page": 128
+          }
+        },
+        {
+          "date": "2008-08-10",
+          "label": "Continued Looting in Koshka",
+          "description": "Looters continued to ransack houses in Koshka, moving in groups and committing acts of arson.",
+          "actors": [
+            "Russian looters",
+            "Ossetian looters"
+          ],
+          "event_type": "infrastructure",
+          "source": {
+            "chunk_id": "0dcec3e1",
+            "page": 128
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Arkadi A.",
+          "excerpt": "I witnessed looters entering the village in groups of 15, stealing everything and setting fire to houses.",
+          "date": "2008-08-26",
+          "location": "Tkviavi",
+          "source": {
+            "chunk_id": "0dcec3e1",
+            "page": 128
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "5ae8ee34",
+    "page": 129,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.7 Russia’s Responsibility as Occupying Power",
+    "section_title": null,
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-10",
+          "label": "Georgian Forces Officially Retreat",
+          "description": "Georgian forces officially retreated, marking the beginning of Russian control over South Ossetia.",
+          "actors": [
+            "Georgia",
+            "Russia"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "5ae8ee34",
+            "page": 129
+          }
+        },
+        {
+          "date": "2008-08-12",
+          "label": "Russian Forces Gain Control of Gori District",
+          "description": "Russian forces moved through Gori district, gaining control of the area.",
+          "actors": [
+            "Russia"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "5ae8ee34",
+            "page": 129
+          }
+        },
+        {
+          "date": "2008-08-22",
+          "label": "Russian Troops Withdraw from Gori",
+          "description": "Russian troops pulled back further north toward South Ossetia, ending their control over Gori city.",
+          "actors": [
+            "Russia"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "5ae8ee34",
+            "page": 129
+          }
+        },
+        {
+          "date": "2008-10-10",
+          "label": "Russian Forces Withdraw to South Ossetia Border",
+          "description": "Russian forces withdrew to the South Ossetia administrative border, ending their occupation of adjacent areas.",
+          "actors": [
+            "Russia"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "5ae8ee34",
+            "page": 129
+          }
+        }
+      ],
+      "testimonies": [],
+      "violations": [
+        {
+          "label": "Failure to Protect Civilians",
+          "description": "Russian forces violated their obligation as an occupying power by failing to ensure public order and safety for civilians.",
+          "actors": [
+            "Russia"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "5ae8ee34",
+            "page": 129
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "8db8d525",
+    "page": 129,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.7 Russia’s Responsibility as Occupying Power",
+    "section_title": "2009).",
+    "model_output": {
+      "events": [],
+      "testimonies": [],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "f32312b5",
+    "page": 129,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.7 Russia’s Responsibility as Occupying Power",
+    "section_title": "Hague Conventions, art. 43",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Anonymous Council of Europe Official",
+          "excerpt": "A senior member of the Russian military in the region said that the military was given no mandate for protection of civilians.",
+          "source": {
+            "chunk_id": "f32312b5",
+            "page": 129
+          }
+        }
+      ],
+      "violations": [
+        {
+          "date": null,
+          "label": "Grave Breaches of Geneva Conventions",
+          "description": "Russian forces were involved in grave breaches of the Geneva Conventions, including execution and torture of prisoners of war.",
+          "actors": [
+            "Russia",
+            "South Ossetian forces"
+          ],
+          "event_type": "humanitarian_law",
+          "source": {
+            "chunk_id": "f32312b5",
+            "page": 129
+          }
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "e5c75111",
+    "page": 130,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.7 Russia’s Responsibility as Occupying Power",
+    "section_title": "In South Ossetia",
+    "model_output": {
+      "events": [
+        {
+          "date": "2008-08-13",
+          "label": "Russian Minister Promises to Stop Looting",
+          "description": "Following reports of looting in ethnic Georgian villages, Russian Minister Rashid Nurgaliev stated that looting would be decisively stopped.",
+          "actors": [
+            "Rashid Nurgaliev",
+            "Russian forces"
+          ],
+          "event_type": "blame_claim",
+          "source": {
+            "chunk_id": "e5c75111",
+            "page": 130
+          }
+        },
+        {
+          "date": "2008-08-13",
+          "label": "Checkpoints Established by Russian Forces",
+          "description": "Russian forces established checkpoints on a key road, preventing access to five ethnic Georgian villages.",
+          "actors": [
+            "Russian forces"
+          ],
+          "event_type": "military_move",
+          "source": {
+            "chunk_id": "e5c75111",
+            "page": 130
+          }
+        }
+      ],
+      "testimonies": [
+        {
+          "witness": "Russian lieutenant colonel",
+          "excerpt": "We’re now trying to stop the looters. They steal and set fire to things … I see no end to this.",
+          "source": {
+            "chunk_id": "e5c75111",
+            "page": 130
+          }
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "chunk_id": "474546d0",
+    "page": 130,
+    "part_title": "Part 3: Violations by Russian Forces",
+    "chapter_title": "3.7 Russia’s Responsibility as Occupying Power",
+    "section_title": "August 13, 2008.",
+    "model_output": {
+      "events": [],
+      "testimonies": [
+        {
+          "witness": "Human Rights Watch researchers",
+          "excerpt": "Human Rights Watch researchers witnessed numerous confrontations between Russian servicemen and Ossetian militias.",
+          "source": {
+            "chunk_id": "474546d0",
+            "page": 130
+          }
+        }
+      ],
+      "violations": []
+    }
+  }
+]
