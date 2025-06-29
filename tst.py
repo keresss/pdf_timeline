@@ -125,8 +125,6 @@ def main():
         actors_list = sorted(set(actors_expanded))
         selected_actors = st.multiselect("Actors", actors_list)
 
-        keyword = st.text_input("Search Keyword")
-
         # Apply filters
         mask = (
             (df['date'] >= pd.to_datetime(date_range[0])) &
@@ -135,11 +133,6 @@ def main():
         )
         if selected_actors:
             mask &= df['actors'].str.contains('|'.join(selected_actors), na=False)
-        if keyword:
-            mask &= (
-                df['description'].str.contains(keyword, case=False, na=False) |
-                df['label'].str.contains(keyword, case=False, na=False)
-            )
         filtered = df[mask]
 
         # Timeline as scatter
